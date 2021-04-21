@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CRUD Codeigniter</title>
+	<title>CRUD</title>
 	<link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
 	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
 	<script src="<?php echo base_url(); ?> assets/jquery.js"></script>
